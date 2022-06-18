@@ -62,7 +62,7 @@ const App: () => Node = () => {
   return (
     <SafeAreaView style={backgroundStyle}>
       <StatusBar barStyle={isDarkMode ? 'light-content' : 'dark-content'} />
-      <Text>Hello bd</Text>
+      <Text>Hello world</Text>
     </SafeAreaView>
   );
 };
